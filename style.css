@@ -1,0 +1,4 @@
+body { font-family: Arial; background:#111; color:#eee; padding:20px; }
+header { text-align:center; margin-bottom:40px; }
+section { background:#222; padding:20px; border-radius:10px; margin-bottom:20px; }
+h1,h2 { color:#4CAF50; }
